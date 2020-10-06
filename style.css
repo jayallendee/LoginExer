@@ -1,0 +1,48 @@
+body{
+  background-color: #8ba897;
+} 
+
+h1 {
+  font-family: BebasNeueRegular;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 50px;
+  margin-bottom: 30px;
+  color: #597f52;
+}
+
+h2 {
+  font-family: BebasNeueRegular;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 20px;
+  margin-bottom: 30px;
+  color: #597f52;
+}
+
+h3 {
+  font-family: BebasNeueRegular;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1px;
+  margin-bottom: 30px;
+  color: #597f52;
+}
+
+.login{
+  position: relative;
+  top: 30px;
+  left: 450px;
+  width: 30%;
+  background-color: #e0c9a7;
+  border-radius: 5%;
+  border-style: solid;
+  border-color: white;
+  text-align: center;
+}
+
+table, th, td{
+      border: 0.5px; 
+      border-style: solid; 
+      border-color: black; 
+    }
